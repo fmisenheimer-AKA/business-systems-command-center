@@ -1,0 +1,14 @@
+JOB DESCRIPTION → DEMO FEATURE MAP
+
+Primary NetSuite administration → ERP operations + access governance
+Saved searches / dashboards / KPIs → executive KPIs + integration health
+Data integrity / governance / audits → data quality indicators + exception model
+Analytics warehouse → freshness / AI readiness
+IT audit / subscriptions / vendor relationships → technology portfolio + MSP scorecard
+IT budget / cost efficiency → spend / optimization view
+Amazon / Shopify / 3PL integrations → Integration Control Center
+Middleware / automation → REST flow + event logs + retry/recovery
+AI strategy → data-readiness measures
+Supply chain / inventory → inventory + replenishment
+Board / investor support → executive summary KPIs
+International operations → US / Canada / EU awareness
